@@ -1,7 +1,5 @@
 <!-- Khai dev -->
-## Hi there 👋 I'm Cuong
-
-💬 Can call me Peter 🤠
+## Hi there 👋 I'm Khai
 
 ### I'm a Software Engineer from Vietnam
 <br>
