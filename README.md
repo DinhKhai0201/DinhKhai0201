@@ -3,6 +3,13 @@
 ## Hi there.  I'm Khai
 
 ### I'm a Software Engineer from Vietnam
+### Details about me
+- I’m Khai. I’m a web, mobile and blockchain developer living in Da Nang, Vietnam. I am a fan of technology, programming, and writing. I’m also interested in sports and photography.
+- 😊 Pronouns: **he/him**
+- 🌟 About me: <https://about.me/dinhkhai0201>
+- 🎨 Portfolio: <https://standardresume.co/r/dinhkhai0201>
+- 💻 Actively contributing to Open Source GitHub repositories and also focusing on my professional projects
+- 📧 You can reach out to me by searching "dinhkhai0201" on [@Google](https://github.com/google.com)
 
 <section align="center">
     <h3>Contact with me on:</h3>
@@ -31,10 +38,3 @@
     </div>
 </section>
 
-### Details about me
-- I’m Khai. I’m a web, mobile and blockchain developer living in Da Nang, Vietnam. I am a fan of technology, programming, and writing. I’m also interested in sports and photography.
-- 😊 Pronouns: **he/him**
-- 🌟 About me: <https://about.me/dinhkhai0201>
-- 🎨 Portfolio: <https://standardresume.co/r/dinhkhai0201>
-- 💻 Actively contributing to Open Source GitHub repositories and also focusing on my professional projects
-- 📧 You can reach out to me by searching "dinhkhai0201" on [@Google](https://github.com/google.com)
