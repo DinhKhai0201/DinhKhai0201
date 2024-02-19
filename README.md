@@ -2,8 +2,6 @@
 
 ## Hi there.  I'm Khai
 
-I'm a Software Engineer from Vietnam
-
 ### I'm a Software Engineer from Vietnam
 
 <section align="center">
