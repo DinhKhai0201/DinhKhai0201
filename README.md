@@ -14,7 +14,7 @@
 <section align="center">
     <h3>My resume</h3>
     <div>
-      <a href="/Nguyen Dinh Khai's Resume.pdf" class="image fit"><img src="images/marr_pic.jpg" alt=""></a>
+      <a href="Nguyen Dinh Khai's Resume.pdf" class="image fit"><img src="images/marr_pic.jpg" alt=""></a>
     </div>
 </section>
 
