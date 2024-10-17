@@ -12,6 +12,13 @@
 - 📧 You can reach out to me by searching "dinhkhai0201" on [@Google](https://github.com/google.com)
 
 <section align="center">
+    <h3>CMy resume</h3>
+    <div>
+      <a href="Nguyen Dinh Khai's resume" class="image fit"><img src="images/marr_pic.jpg" alt=""></a>
+    </div>
+</section>
+
+<section align="center">
     <h3>Contact with me on:</h3>
     <div>
         <a href="https://linkedin.com/in/dinhkhai0201"><img width="30px" height="30px" src="icons/linkedin.svg" alt="LinkedIn"></a>
