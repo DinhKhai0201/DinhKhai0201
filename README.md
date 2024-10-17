@@ -12,11 +12,7 @@
 - 💻 Actively contributing to Open Source GitHub repositories and also focusing on my professional projects
 - 📧 You can reach out to me by searching "dinhkhai0201" on [@Google](https://github.com/google.com)
 
-<section align="center">
-    <div>
-      <a href="Nguyen Dinh Khai's Resume.pdf" class="image fit">My resume</a>
-    </div>
-</section>
+
 
 <section align="center">
     <h3>Contact with me on:</h3>
