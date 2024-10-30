@@ -8,7 +8,7 @@
 - 😊 Pronouns: **he/him**
 - 🌟 About me: <https://about.me/dinhkhai0201>
 - 🎨 Portfolio: <https://standardresume.co/r/dinhkhai0201>
-- 📄 Resume: <a href="Nguyen Dinh Khai's Resume.pdf">Nguyen Dinh Khai's Resume.pdf</a>
+- 📄 Portfolio: <https://dinhkhai0201.vercel.app/>
 - 💻 Actively contributing to Open Source GitHub repositories and also focusing on my professional projects
 - 📧 You can reach out to me by searching "dinhkhai0201" on [@Google](https://github.com/google.com)
 
