@@ -6,7 +6,6 @@
 ### Details about me
 - I’m Khai.  I’m Frontend and Full-Stack Developer with over 5 years of hands-on experience in `JavaScript`,`TypeScript`, and frameworks like `React.js` and `Next.js`. I am a fan of technology, programming, and writing. I’m also interested in sports and photography.
 - 😊 Pronouns: **he/him**
-- 🌟 About me: <https://about.me/dinhkhai0201>
 - 🎨 Cv: <https://standardresume.co/r/dinhkhai0201>
 - 📄 Portfolio: <https://dinhkhai0201.vercel.app/>
 - 💻 Actively contributing to Open Source GitHub repositories and also focusing on my professional projects
