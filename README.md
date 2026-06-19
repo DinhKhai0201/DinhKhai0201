@@ -29,7 +29,6 @@
 <section align="center">
     <h3>Personal stats:</h3>
     <div>
-        <img width="400px" src="https://github-readme-stats.vercel.app/api?username=dinhkhai0201" alt="dinhkhai0201's GitHub stats"/>
         <img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=dinhkhai0201&" alt="dinhkhai0201's GitHub streak"/>
     </div>
 </section>
