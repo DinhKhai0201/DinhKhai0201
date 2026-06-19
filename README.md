@@ -28,11 +28,6 @@
 
 <section align="center">
     <h3>Personal stats:</h3>
-    <section align="center">
-      <p><b>dinhkhai0201's Profile Overview</b></p>
-     <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDinhKhai0201&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits%2Fviews&edge_flat=false"/></a>
-    </section>
-    <br/>
     <div>
         <img width="400px" src="https://github-readme-stats.vercel.app/api?username=dinhkhai0201" alt="dinhkhai0201's GitHub stats"/>
         <img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=dinhkhai0201&" alt="dinhkhai0201's GitHub streak"/>
